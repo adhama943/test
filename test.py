@@ -1,4 +1,4 @@
 name = input("whats your name?")
 
-if name == "adham":
+if bob == "adham":
     print(f'hi {name}')
